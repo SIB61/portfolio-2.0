@@ -1,0 +1,91 @@
+{
+  "name": "Md Sabit Islam Bhuiya",
+  "image": "",
+  "email": "sib.sustswe@gmail.com",
+  "github": "",
+  "x": "",
+  "instagram": "",
+  "experiencedFrom": "2022-6-1",
+  "keywords": [],
+  "links": [
+    {
+      "name": "instagram",
+      "icon": "/assets/instagram.svg",
+      "link": ""
+    },
+    {
+      "name": "youtube",
+      "icon": "/assets/youtube.svg",
+      "link": ""
+    },
+    {
+      "name": "x",
+      "icon": "/assets/x.svg",
+      "link": "/assets/links.svg"
+    }
+  ],
+  "experiences": [
+    {
+      "companyName": "Shellbeehaken Ltd.",
+      "companyImage": "https://shellbeehaken.com/favicon.ico",
+      "position": "Associate Software Engineer",
+      "startDate": "2023-8-1",
+      "endDate": "",
+      "description": "I have continued as a Associate Software Engineer after my internship at Shellbeehaken Ltd. I have worked on several projects. My main tech stack here is NextJs, NodeJs, MongoDB."
+    },
+    {
+      "companyName": "Shellbeehaken Ltd.",
+      "companyImage": "https://shellbeehaken.com/favicon.ico",
+      "position": "Software Engineer Intern",
+      "startDate": "2023-2-1",
+      "endDate": "2023-7-31",
+      "description": "I have completed my internship from shellbeehaken ltd. In the internship preriod I have learned html, css, javascript, git, react, mongodb, expressjs and nextjs. Worked on production projects in the 5th and 6th month."
+    },
+    {
+      "companyName": "Geeky Solutions",
+      "companyImage": "https://geeky.solutions/wp-content/uploads/2020/09/favicon.ico",
+      "position": "Software Engineer Trainee",
+      "startDate": "2022-6-1",
+      "endDate": "2022-12-31",
+      "description": "This is my experience from <b>Learnathon 2022</b> organized by Geeky Solutions. In this event I have learned <b>Typescript</b>, <b>Angular</b>, <b>MongoDB</b>, <b>Dotnet Core</b>, <b>RabbitMQ</b>, <b>SignalR</b>. I developed two projects using these technologies. One of them was a <b>Whatsapp clone</b> and the another one was a <b>Twitter clone</b>."
+    }
+  ],
+  "projects": [
+    {
+      "title": "TWITTER CLONE",
+      "cover": "/assets/twitter/1.png",
+      "link": "",
+      "description": "NextJs MongoDB SocketIO"
+    },
+    {
+      "title": "TWITTER CLONE",
+      "cover": "/assets/twitter/1.png",
+      "link": "",
+      "description": "Angular SignalR DotnetCore MongoDB RabbitMQ Radis"
+    },
+    {
+      "title": "EXPRESS FOLDER ROUTER",
+      "cover": "https://th.bing.com/th/id/R.64bd21adf0efc47f19a6643516a23426?rik=XbxZLBVOeMaQkw&riu=http%3a%2f%2fanpsthemes.com%2fwp-content%2fuploads%2f2016%2f03%2fnpm-1.jpg&ehk=vsbtr9uLTdV5gUm%2fBaYlC%2fRvVG%2fgKX3j2XlZbJqWt28%3d&risl=&pid=ImgRaw&r=0",
+      "link": "",
+      "description": "A folder based router solution for expressJs."
+    },
+    {
+      "title": "REACT CLASSNAME",
+      "cover": "https://th.bing.com/th/id/R.64bd21adf0efc47f19a6643516a23426?rik=XbxZLBVOeMaQkw&riu=http%3a%2f%2fanpsthemes.com%2fwp-content%2fuploads%2f2016%2f03%2fnpm-1.jpg&ehk=vsbtr9uLTdV5gUm%2fBaYlC%2fRvVG%2fgKX3j2XlZbJqWt28%3d&risl=&pid=ImgRaw&r=0",
+      "link": "",
+      "description": "A simple react library to automatically use classNames from the css module first."
+    },
+    {
+      "title": "HEALTH CARE",
+      "cover": "/assets/healthcare.jpeg",
+      "link": "",
+      "description": "Android app for complete health care. JAVA ANDROID FIRESTORE"
+    },
+    {
+      "title": "ROLL THE DICE",
+      "cover": "/assets/roll-the-dice.png",
+      "link": "",
+      "description": "A simple dice rolling game with html css and javascript."
+    }
+  ]
+}
