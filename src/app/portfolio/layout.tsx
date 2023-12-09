@@ -3,6 +3,19 @@ import { cn } from "@/lib/utils";
 import { ReactNode } from "react";
 import user from "@/data.json";
 import { Nav } from "@/components/nav";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Md Sabit Islam Bhuiya",
+  description: "This is a personal portfolio.",
+  keywords: [
+    "Sabit",
+    "Portfolio",
+    "Sabit Islam",
+    "Web developer portfolio",
+    "Software engineer portfolio",
+  ],
+};
 
 export default function Page({ children }: { children: ReactNode }) {
   return (
